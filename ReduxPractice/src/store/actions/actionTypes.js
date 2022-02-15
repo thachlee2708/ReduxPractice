@@ -1,1 +1,2 @@
 export const COUNTER_CHANGE = 'COUNTER_CHANGE';
+export const NUMBER_CHANGE = 'NUMBER_CHANGE';
